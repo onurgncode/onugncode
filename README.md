@@ -6,7 +6,7 @@
    <img src="https://img.shields.io/badge/-@onurgncode-%23181717?style=flat-square&logo=github" />
  </a>
  <a href="https://www.linkedin.com/in/onurcoding" alt="Onur Linkedin">
-   <img src="https://img.shields.io/badge/-fernandocalmet-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernandocalmet" />
+   <img src="https://img.shields.io/badge/-onurcoding-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/onurcoding" />
  </a>
 
 
