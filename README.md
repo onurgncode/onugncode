@@ -29,4 +29,5 @@
 - 🐱‍🏍 Blog yakında güncellenecek!
 - 📫 Beni linkedın'de takip edin [@onurcoding](https://www.linkedin.com/in/onurcoding/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=onurgncode&show_icons=true&theme=radical)
+![Onur GitHub stats](https://github-readme-stats.vercel.app/api?username=onurgncode&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onurgncode&layout=compact)](https://github.com/yushi1007)
