@@ -19,6 +19,7 @@
 - 🐱‍🏍 The blog will be updated soon !
 - 📫 Follow me on LinkedIn [@onurcoding](https://www.linkedin.com/in/onurcoding/)
 
+
 ## TR
 
 > <img src="https://raw.githubusercontent.com/FernandoCalmet/fernandocalmet/master/pixel-mona-heart.gif" width="24" height="24" href="https://github.com/fernandocalmet">  Ben bir yazılım geliştiricisiyim, son 6 yıldır bu işte çalışıyorum ve bilgisayar bilimini seviyorum. Web ve Uygulama da dahil olmak üzere yazılım geliştirmeye ve açık kaynaklı veya özel yazılımlar için destek sağlamaya çalışacağım.
@@ -27,3 +28,5 @@
 - 📝 Burada blog yazıyorum: [Yazılımyazin.blogspot.com](https://yazilimyazin.blogspot.com/)
 - 🐱‍🏍 Blog yakında güncellenecek!
 - 📫 Beni linkedın'de takip edin [@onurcoding](https://www.linkedin.com/in/onurcoding/)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=onurgncode&show_icons=true&theme=radical)
