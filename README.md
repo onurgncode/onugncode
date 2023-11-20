@@ -15,6 +15,5 @@
 > <img src="https://raw.githubusercontent.com/FernandoCalmet/fernandocalmet/master/pixel-mona-heart.gif" width="24" height="24" href="https://github.com/fernandocalmet"> I am a software developer, I have been a student in this industry for the last  years and I love computer science. I will try to develop software, including Web and Application, and provide support for open-source or custom software..
 
 #### Things
-- 📝 I blog here: [Yazılımyazin.blogspot.com](https://yazilimyazin.blogspot.com/)
-- 🐱‍🏍 The blog will be updated soon !
+- 📝 I blog here: [blog.onurdan.live](https://blog.onurdan.live/)
 - 📫 Follow me on LinkedIn [@onurcoding](https://www.linkedin.com/in/onurcoding/)
